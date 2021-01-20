@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: lei.hua@mavs.uta.edu
+    link: mailto:lei.hua@mavs.uta.edu
     display:
       header: true
   - icon: graduation-cap
