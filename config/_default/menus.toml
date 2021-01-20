@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Research"
-  url = "landing/"
+  url = "research/"
   weight = 20
 
 [[main]]
