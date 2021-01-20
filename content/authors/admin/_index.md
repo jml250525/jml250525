@@ -1,5 +1,5 @@
 ---
-role: Ph.D. Candidate, Management Science
+role: PhD Candidate, Management Science
 avatar_filename: avatar.jpg
 bio: ""
 interests:
