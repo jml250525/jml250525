@@ -1,6 +1,6 @@
 ---
 role: Ph.D. Candidate, Management Science
-avatar_filename: lh-2016.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Supply chain network
