@@ -13,7 +13,7 @@ social:
     link: mailto:lei.hua@mavs.uta.edu
     display:
       header: true
-  - icon: graduation-cap
+  - icon: cv
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: orcid
