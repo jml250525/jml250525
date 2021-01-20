@@ -1,7 +1,7 @@
 ---
 role: Ph.D. Candidate, Management Science
 avatar_filename: ""
-bio: Hello Everyone
+bio: ""
 interests:
   - Supply chain network
   - Behavioral operations management
@@ -14,7 +14,7 @@ social:
     display:
       header: true
   - icon: graduation-cap
-    icon_pack: ai
+    icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
