@@ -4,7 +4,9 @@ avatar_filename: ""
 bio: ""
 interests:
   - Supply chain network
-  - behavioral operations management
+  - Behavioral operations management
+  - Supply chain contractual competition
+  - Operations and artificial intelligence Interface
 social:
   - icon: envelope
     icon_pack: fas
