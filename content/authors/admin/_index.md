@@ -13,9 +13,6 @@ social:
     link: /#contact
     display:
       header: true
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -24,7 +21,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/leihua7/
 organizations:
   - name: University of Texas at Arlington
     url: https://www.uta.edu
