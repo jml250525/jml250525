@@ -1,8 +1,7 @@
 ---
 role: Ph.D. Candidate, Management Science
 avatar_filename: lh-2016.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
