@@ -1,7 +1,7 @@
 ---
 role: Ph.D. Candidate, Management Science
 avatar_filename: ""
-bio: Hello!
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Texas at Arlington
+    url: https://www.uta.edu
 education:
   courses:
     - course: PhD in Artificial Intelligence
