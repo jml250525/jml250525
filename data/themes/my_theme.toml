@@ -5,7 +5,7 @@ name = "Classic"
 light = true
 
 # Primary
-primary = "#0D1962"
+primary = "#30569C"
 
 # Menu
 menu_primary = "#1C063D"
