@@ -3,7 +3,7 @@ role: Ph.D. Candidate, Management Science
 avatar_filename: ""
 bio: ""
 interests:
-  - Supplychainnetwork
+  - Supply chain network
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,7 +25,7 @@ organizations:
     url: https://www.uta.edu
 education:
   courses:
-    - course: PhD in Business Administration (Management Science)
+    - course: PhD in Business Administration (Management Science), Expected
       institution: University of Texas at Arlington
       year: 2021
     - course: MSc in Accounting
