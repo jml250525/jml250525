@@ -28,6 +28,8 @@ social:
     icon: skype
     link: https://join.skype.com/invite/sPCSxo93p91i
 organizations:
+  - name: College of Business
+    url: https://www.uta.edu/academics/schools-colleges/business
   - name: University of Texas at Arlington
     url: https://www.uta.edu
 education:
