@@ -14,7 +14,7 @@ social:
     display:
       header: true
   - icon: graduation-cap
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
