@@ -3,9 +3,7 @@ role: Ph.D. Candidate, Management Science
 avatar_filename: ""
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Supplychainnetwork
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,8 +39,6 @@ highlight_name: false
 title: Lei Hua
 email: ""
 ---
-I am a PhD Candidate in Supply Chain and Operations at Carlson School of Management, University of Minnesota. I am interested in adopting a behavioral angle to understand and improve supply chain and operations management decisions. My dissertation blends analytical and experimental methods to investigate decision-making problems in supply chain risk management and strategic sourcing. Specifically, I focus on how supplier-induced risks influence sourcing decisions and how geopolitical risks influence vaccine manufacturers’ capacity investment decisions. In my other research, I address how consumer and employee behavior can impact operations management decisions.
+I am a PhD Candidate in Management Science at College of Business, University of Texas at Arlington. I am interested in adopting a behavioral angle to understand and improve supply chain and operations management decisions. My dissertation blends analytical and experimental methods to investigate decision-making problems in supply chain risk management and strategic sourcing. Specifically, I focus on how supplier-induced risks influence sourcing decisions and how geopolitical risks influence vaccine manufacturers’ capacity investment decisions. In my other research, I address how consumer and employee behavior can impact operations management decisions.
 
 I have taught one introductory undergraduate course on supply chain and operations management and have extensive teaching assistance experience in various supply chain and operations management courses.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
