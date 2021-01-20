@@ -26,9 +26,9 @@ organizations:
     url: https://www.uta.edu
 education:
   courses:
-    - course: PhD in Business Administration (Management Science), Expected
+    - course: PhD in Business Administration (Management Science)
       institution: University of Texas at Arlington
-      year: 2021
+      year: ""
     - course: MSc in Accounting
       institution: University of Rochester
       year: 2015
