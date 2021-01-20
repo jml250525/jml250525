@@ -3,7 +3,8 @@ role: Ph.D. Candidate, Management Science
 avatar_filename: ""
 bio: ""
 interests:
-  - Supply chain network behavioral operations management
+  - Supply chain network
+  - behavioral operations management
 social:
   - icon: envelope
     icon_pack: fas
