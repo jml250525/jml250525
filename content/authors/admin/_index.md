@@ -1,7 +1,7 @@
 ---
 role: Ph.D. Candidate, Management Science
 avatar_filename: ""
-bio: ""
+bio: Hello!
 interests:
   - Artificial Intelligence
   - Computational Linguistics
