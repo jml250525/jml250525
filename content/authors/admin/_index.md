@@ -22,6 +22,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/leihua7/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: skype
+    link: https://join.skype.com/invite/sPCSxo93p91i
 organizations:
   - name: University of Texas at Arlington
     url: https://www.uta.edu
