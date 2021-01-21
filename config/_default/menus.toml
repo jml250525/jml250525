@@ -20,7 +20,7 @@
 
 [[main]]
   name = "CV"
-  url = "media/resume.pdf"
+  url = "{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}"
   weight = 40
 
 
