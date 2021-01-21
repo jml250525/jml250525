@@ -13,7 +13,7 @@ social:
     icon_pack: fas
     link: mailto:lei.hua@mavs.uta.edu
     display:
-      header: true
+      header: false
   - icon: cv
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
