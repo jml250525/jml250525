@@ -14,9 +14,6 @@ header:
   image: ""
 ---
 
-Add your *content* here...
-
-
 /*Scroll to top when arrow up clicked BEGIN*/
 $(window).scroll(function() {
     var height = $(window).scrollTop();
@@ -35,3 +32,6 @@ $(document).ready(function() {
 
 });
  /*Scroll to top when arrow up clicked END*/
+Add your *content* here...
+
+
