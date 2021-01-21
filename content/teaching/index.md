@@ -17,5 +17,7 @@ header:
 Add your *content* here...
 
 
-<a id="back2Top" title="Back to top" href="#">&#10148;</a>
+<!-- Return to Top -->
+<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+
 
