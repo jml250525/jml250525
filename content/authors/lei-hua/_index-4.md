@@ -35,14 +35,14 @@ organizations:
     url: https://www.uta.edu
 education:
   courses:
+    - course: PhD in Business Administration (Management Science), Expected 2021
+      institution: University of Texas at Arlington
     - course: MSc in Accounting
       institution: University of Rochester
       year: 2015
     - course: BSc in Accounting
       institution: Winthrop University
       year: 2013
-    - course: PhD in Business Administration (Management Science), Expected 2021
-      institution: University of Texas at Arlington
 email: ""
 superuser: true
 highlight_name: false
