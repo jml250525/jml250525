@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[<!DOCTYPE html>
 <html>
 <head>
 <title>Font Awesome 5 Icons</title>
@@ -23,4 +23,4 @@
 <i style='font-size:24px' class='fas'>&#xf106;</i>
 
 </body>
-</html>
+</html>]
