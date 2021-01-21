@@ -44,6 +44,8 @@ education:
     - course: BSc in Accounting
       institution: Winthrop University
       year: 2013
+    - course: go
+      institution: go
 email: ""
 superuser: true
 highlight_name: false
