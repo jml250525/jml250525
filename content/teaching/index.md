@@ -16,8 +16,6 @@ header:
 
 Add your *content* here...
 
-
-<!-- Return to Top -->
-<a href="javascript:" id="return-to-top"><i class="icon-chevron-up"></i></a>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
 
