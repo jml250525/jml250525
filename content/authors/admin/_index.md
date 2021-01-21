@@ -5,7 +5,7 @@ bio: ""
 interests:
   - Supply chain network
   - Behavioral operations management
-  - Supply chain contractual competition
+  - Strategic sourcing
   - Operations and artificial intelligence Interface
 social:
   - icon: envelope
