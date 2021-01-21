@@ -69,3 +69,6 @@ gtag('js',new Date());gtag('config','G-27PQEF3MX6',{});document.addEventListener
 </a>
 </div>
 <button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar aria-expanded=false aria-label="Toggle navigation">
+
+</body>
+</html>
