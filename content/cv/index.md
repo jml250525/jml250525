@@ -1,1 +1,1 @@
-[My CV]({{< ref "cv/index.md" >}})
+[My CV]({{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}})
