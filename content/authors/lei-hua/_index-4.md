@@ -1,5 +1,4 @@
 ---
-title: Lei Hua
 role: PhD Candidate, Management Science
 avatar_filename: avatar.jpg
 bio: ""
@@ -35,7 +34,7 @@ organizations:
     url: https://www.uta.edu
 education:
   courses:
-    - course: PhD in Business Administration (Management Science), Expected 2021
+    - course: PhD in Administration (Management Science), Expected 2021
       institution: University of Texas at Arlington
     - course: MSc in Accounting
       institution: University of Rochester
@@ -43,9 +42,10 @@ education:
     - course: BSc in Accounting
       institution: Winthrop University
       year: 2013
-email: ""
 superuser: true
 highlight_name: false
+title: Lei Hua
+email: ""
 ---
 I am a PhD Candidate in Management Science at College of Business, University of Texas at Arlington. I am interested in adopting behavioral angle to understand and improve supply chain and operations management decisions. My dissertation blends analytical and experimental methods to investigate decision-making problems in supply chain risk management and strategic sourcing. Specifically, I focus on how supplier-induced risks influence sourcing decisions and how geopolitical risks influence vaccine manufacturers’ capacity investment decisions. In my other research, I address how consumer and employee behavior can impact operations management decisions.
 
