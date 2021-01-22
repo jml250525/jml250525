@@ -18,7 +18,7 @@ header:
 
  <details class=abstract><summary markdown=span>Abstract (click to expand)</summary>
   
- 
+ ##
  We examine implications of retail level competition on supply contract negotiations
 when retailers have asymmetric supplier bases. We represent the asymmetric supplier bases with
 a two-retailer-two-supplier network in which one retailer has access to both suppliers and other
@@ -41,7 +41,7 @@ needs to be considered to better reflect the reality of contractual negotiation 
  <details>
    <summary>Abstract [Click to expand] </summary>
   
-  
+ ## 
 Abstract: This paper studies contract bargaining in two-sided supply chain networks where retailers
 on the demand side order products from suppliers on the supply side and then sell to the
 consumer market. In such a supply chain network, a retailer and a supplier need a business relationship
