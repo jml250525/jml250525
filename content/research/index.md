@@ -17,7 +17,7 @@ header:
 <strong>1. Bargaining under Supply Chain Competition with Network Asymmetry” </strong>
 
    <details>
-      <summary>Abstract (click to expand) </summary>
+      <summary>Abstract (click to expand) </summary><p>
   
  ##
  We examine implications of retail level competition on supply contract negotiations
@@ -34,7 +34,7 @@ We also show that total industry profits can be higher under asymmetric network 
 as compared to that under complete network structure. Overall, our research suggests that the
 supply chain network structure can fundamentally impact firms’ contracting behaviors, and thus,
 needs to be considered to better reflect the reality of contractual negotiation under competition.
-</details>
+</p></details>
 
 
 <strong>2. Bargaining on Supply Chain Contract in a Two-sided Network: A laboratory Investigation” </strong>
