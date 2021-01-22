@@ -41,7 +41,7 @@ needs to be considered to better reflect the reality of contractual negotiation 
 
    <details>
       
-      <span><summary>Abstract (click to expand) </summary></span>
+      <summary>Abstract (click to expand) </summary>
   
  ## 
 Abstract: This paper studies contract bargaining in two-sided supply chain networks where retailers
