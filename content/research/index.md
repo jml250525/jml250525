@@ -16,10 +16,10 @@ header:
 
 <strong>1. Bargaining under Supply Chain Competition with Network Asymmetry” </strong>
 
-##
 <details class=abstract>
 <summary markdown=span> Abstract (click to expand) </summary>
  
+## 
  We examine implications of retail level competition on supply contract negotiations
 when retailers have asymmetric supplier bases. We represent the asymmetric supplier bases with
 a two-retailer-two-supplier network in which one retailer has access to both suppliers and other
