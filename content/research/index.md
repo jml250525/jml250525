@@ -39,7 +39,7 @@ needs to be considered to better reflect the reality of contractual negotiation 
 2. Bargaining on Supply Chain Contract in a Two-sided Network: A laboratory Investigation”
 
  <details>
-   <summary>Abstract (Click to expand) </summary>
+   <summary>Abstract (click to expand) </summary>
   
  ## 
 Abstract: This paper studies contract bargaining in two-sided supply chain networks where retailers
