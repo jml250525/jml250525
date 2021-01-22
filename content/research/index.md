@@ -13,8 +13,8 @@ header:
   caption: ""
   image: ""
 ---
-element {
-  font-size: 75;
+@settings {
+  font-size: 100;
 }
 
 
