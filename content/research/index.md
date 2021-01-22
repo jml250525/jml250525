@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-1. Bargaining under Supply Chain Competition with Network Asymmetry”
+<strong>1. Bargaining under Supply Chain Competition with Network Asymmetry” </strong>
 
  <details class=abstract><summary markdown=span>Abstract (click to expand)</summary>
   
