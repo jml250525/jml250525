@@ -16,7 +16,8 @@ header:
 
 <strong>1. Bargaining under Supply Chain Competition with Network Asymmetry” </strong>
 
-<details open>
+<span style="display:inline-block; width: 60px;">
+<details>
 <summary> Abstract (click to expand) </summary><p>
   
  ##
@@ -35,7 +36,7 @@ as compared to that under complete network structure. Overall, our research sugg
 supply chain network structure can fundamentally impact firms’ contracting behaviors, and thus,
 needs to be considered to better reflect the reality of contractual negotiation under competition.
 </p></details>
-
+</span>
 
 <strong>2. Bargaining on Supply Chain Contract in a Two-sided Network: A laboratory Investigation” </strong>
 
