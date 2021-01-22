@@ -17,7 +17,7 @@ header:
 Add your *content* here...
 
 <details>
-  <summary>Summary [Click to expand!] </summary>
+  <summary>Summary [Click to expand] </summary>
   
   ## Abstract
  We examine implications of retail level competition on supply contract negotiations
