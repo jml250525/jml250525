@@ -1,3 +1,21 @@
+---
+title: Working papers
+summary: Here we describe how to add a page to your site.
+date: "2018-06-28T00:00:00Z"
+
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
+---
+
+
+
 <article class=article><div class="article-container pt-3"><h1></h1><div class=article-metadata></div></div><div class=article-container><div class=article-style><h2 id=manuscripts-under-review-and-revision>Manuscripts under review and revision</h2><hr><ol><li><strong><a href="https://drive.google.com/file/d/1QkCntyKl5_cuChD87_FeIt6WmRazTllS/view?usp=sharing" target=_blank rel=noopener>Sourcing under Supply Disruption and Responsibility Violation Risks: A Behavioral Investigation</a>
 .</strong> Joint work with Karen Donohue and Karthik Natarajan. Reject and Resubmit at <em>Management Science</em>.</li></ol><details class=abstract><summary markdown=span>Summary (click to expand)</summary>
 We investigate sourcing decisions when faced with two suppliers with different cost and risk profiles. Sourcing from one supplier costs more but involves no risk, while sourcing from the other may introduce either supply disruption risk, which influences product supply, or responsibility violation risk, which influences customer demand. To contrast these two types of supplier-induced risks, we present a parsimonious comparative framework based on risk matrices used in practice that organize risk level by two dimensions: likelihood and impact. We first analytically characterize the profit-maximizing sourcing strategies in different likelihood/impact environments and then employ an incentivized experiment with human participants to explore actual sourcing behavior. While sole-sourcing is always theoretically optimal, we find that individuals tend to diversify. However, they are less likely to diversify and more likely to select the optimal supplier when faced with responsibility violation risk relative to supply disruption risk. Concerning the underlying environment, we find that buyers respond similarly to changes in risk likelihood and impact levels in terms of the adjustment in order allocation between the two suppliers. This behavior deviates from the normative predictions, and our analysis suggests that managers will benefit from recognizing the unique characteristics of the two risk dimensions and developing tailored strategies to manage each type of risk. The negative influence of these behavioral factors on profit can be quite significant, especially under responsibility violation risk.</details><br><ol start=2><li><strong>Pricing Online Delivery Options: Aggregated vs. Disaggregated Customer Rating</strong>. Joint work with Tim Huh. Under review at <em>Manufacturing & Service Operations Management</em>.</li></ol><details class=abstract><summary markdown=span>Summary (click to expand)</summary>
