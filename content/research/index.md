@@ -16,9 +16,9 @@ header:
 
 1. Bargaining under Supply Chain Competition with Network Asymmetry”
 
- <details class=abstract><summary markdown=span>Summary (click to expand)</summary>
+ <details class=abstract><summary markdown=span>Abstract (click to expand)</summary>
   
-  ## Abstract
+ 
  We examine implications of retail level competition on supply contract negotiations
 when retailers have asymmetric supplier bases. We represent the asymmetric supplier bases with
 a two-retailer-two-supplier network in which one retailer has access to both suppliers and other
@@ -39,16 +39,15 @@ needs to be considered to better reflect the reality of contractual negotiation 
 2. Bargaining on Supply Chain Contract in a Two-sided Network: A laboratory Investigation”
 
  <details>
-   <summary>Summary [Click to expand] </summary>
+   <summary>Abstract [Click to expand] </summary>
   
-   ## Abstract
+  
 Abstract: This paper studies contract bargaining in two-sided supply chain networks where retailers
 on the demand side order products from suppliers on the supply side and then sell to the
 consumer market. In such a supply chain network, a retailer and a supplier need a business relationship
 or ”link” to bargain and trade with each other, and the retailers may have heterogeneous
 valuations on the products ordered from the supply partner. With both theoretical and behavioral
-1
-studies, we reveal behavioral regularities on contract bargaining outcomes due to both network
+1studies, we reveal behavioral regularities on contract bargaining outcomes due to both network
 structure and market value heterogeneity. We find that players who link with more potential partners
 or who have more perceived values tend to earn more in contract bargaining procedure. We
 develop a new behavioral theory, referred to as desperateness theory, to better capture and predict
