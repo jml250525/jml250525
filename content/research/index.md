@@ -18,9 +18,8 @@ header:
 
 
 <details class=abstract>
-<summary markdown=span> Abstract (click to expand) </summary><p>
-  
- ##
+<summary markdown=span> Abstract (click to expand) </summary>
+ 
  We examine implications of retail level competition on supply contract negotiations
 when retailers have asymmetric supplier bases. We represent the asymmetric supplier bases with
 a two-retailer-two-supplier network in which one retailer has access to both suppliers and other
@@ -35,7 +34,7 @@ We also show that total industry profits can be higher under asymmetric network 
 as compared to that under complete network structure. Overall, our research suggests that the
 supply chain network structure can fundamentally impact firms’ contracting behaviors, and thus,
 needs to be considered to better reflect the reality of contractual negotiation under competition.
-</p></details>
+</details>
 
 
 <strong>2. Bargaining on Supply Chain Contract in a Two-sided Network: A laboratory Investigation” </strong>
