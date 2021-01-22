@@ -38,7 +38,7 @@ needs to be considered to better reflect the reality of contractual negotiation 
 
 <strong>2. Bargaining on Supply Chain Contract in a Two-sided Network: A laboratory Investigation” </strong>
 
-<details> &nbsp 
+<details>
    <summary>Abstract (click to expand) </summary>
   
  ## 
