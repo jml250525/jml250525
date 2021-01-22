@@ -1,19 +1,3 @@
----
-title: Working papers
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
-
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
----
-
 
 
 <article class=article><div class="article-container pt-3"><h1></h1><div class=article-metadata></div></div><div class=article-container><div class=article-style><h2 id=manuscripts-under-review-and-revision>Manuscripts under review and revision</h2><hr><ol><li><strong><a href="https://drive.google.com/file/d/1QkCntyKl5_cuChD87_FeIt6WmRazTllS/view?usp=sharing" target=_blank rel=noopener>Sourcing under Supply Disruption and Responsibility Violation Risks: A Behavioral Investigation</a>
