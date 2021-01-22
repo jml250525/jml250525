@@ -16,7 +16,7 @@ header:
 
 <strong>1. Bargaining under Supply Chain Competition with Network Asymmetry” </strong>
 
-   <details class=abstract><Summary markdown=span>Abstract (click to expand)</summary>
+   <details class=abstract><summary markdown=span>Summary (click to expand)</summary>
   
  ##
  We examine implications of retail level competition on supply contract negotiations
