@@ -16,7 +16,7 @@ header:
 
 <strong>1. Bargaining under Supply Chain Competition with Network Asymmetry” </strong>
 
-      <details class=abstract><Summary markdown=span>Abstract (click to expand)</summary>
+   <details class=abstract><Summary markdown=span>Abstract (click to expand)</summary>
   
  ##
  We examine implications of retail level competition on supply contract negotiations
@@ -38,8 +38,8 @@ needs to be considered to better reflect the reality of contractual negotiation 
 
 <strong>2. Bargaining on Supply Chain Contract in a Two-sided Network: A laboratory Investigation” </strong>
 
-     <details>
-       <summary>Abstract (click to expand) </summary>
+   <details>
+      <summary>Abstract (click to expand) </summary>
   
  ## 
 Abstract: This paper studies contract bargaining in two-sided supply chain networks where retailers
