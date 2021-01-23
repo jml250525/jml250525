@@ -8,6 +8,10 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
+function print(callback) {  
+    callback();
+}
+
 
 
 # Optional header image (relative to `static/media/` folder).
@@ -16,9 +20,6 @@ header:
   image: ""
 ---
 
-function print(callback) {  
-    callback();
-}
 
 
 <article class=article>
