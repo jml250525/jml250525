@@ -14,6 +14,7 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
+
 function doSomething(p, callback){
    // does something using the p parameter
    // maybe call some other service 
@@ -29,7 +30,6 @@ function doSomething(p, callback){
 module.doSomething(123, function () {
 	console.log("it's done!");
 });
- 
 ---
 
 
