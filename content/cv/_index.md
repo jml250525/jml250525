@@ -1,6 +1,6 @@
----
+------
 type: ""  # Page type is a Widget Page
----
+------
 
 
 
