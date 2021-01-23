@@ -1,8 +1,3 @@
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
-function trackOutboundLink(url,target){gtag('event','click',{'event_category':'outbound','event_label':url,'transport_type':'beacon','event_callback':function(){if(target!=='_blank'){document.location=url;}}});console.debug("Outbound link clicked: "+url);}
-function onClickCallback(event){if((event.target.tagName!=='A')||(event.target.host===window.location.host)){return;}
-trackOutboundLink(event.target,event.target.getAttribute('target'));}
-gtag('js',new Date());gtag('config','G-27PQEF3MX6',{});document.addEventListener('click',onClickCallback,false);</script>
 ---
 title: Research
 summary: Here we describe how to add a page to your site.
@@ -12,6 +7,12 @@ reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
+
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+function trackOutboundLink(url,target){gtag('event','click',{'event_category':'outbound','event_label':url,'transport_type':'beacon','event_callback':function(){if(target!=='_blank'){document.location=url;}}});console.debug("Outbound link clicked: "+url);}
+function onClickCallback(event){if((event.target.tagName!=='A')||(event.target.host===window.location.host)){return;}
+trackOutboundLink(event.target,event.target.getAttribute('target'));}
+gtag('js',new Date());gtag('config','G-27PQEF3MX6',{});document.addEventListener('click',onClickCallback,false);</script>
 
 # Optional header image (relative to `static/media/` folder).
 header:
