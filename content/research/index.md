@@ -16,16 +16,7 @@ header:
   image: ""
  ---
 
-function doSomething(p, callback){
-   // does something using the p parameter
-   // maybe call some other service 
-   // that takes a long time to complete
-   
-   // when that is finally completed.
-   // it calls back
-   // by just calling the callback function
-   callback();
-}
+function onClickCallback(event){if((event.target.tagName!=='A')||(event.target.host===window.location.host)){return;}
 
 // The above is invoked like this, for example
 module.doSomething(123, function () {
