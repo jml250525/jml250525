@@ -13,7 +13,7 @@ html, body {
             }
   
 h {
-  font-size: 42px;
+  font-size: 40px;
 }
 
 <article class=article><div class="article-container pt-0"><h>Lei's CV</h><div class=article-metadata></div></div>
