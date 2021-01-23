@@ -8,7 +8,7 @@ type: ""  # Page type is a Widget Page
 html, body {
                 width: 105%;
                 height: 100%;
-                margin: 1;
+                margin: 0.1;
                 padding: 0;
                 background-color: white;
             }
