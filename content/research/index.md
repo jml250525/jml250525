@@ -1,19 +1,3 @@
-function doSomething(p, callback){
-   // does something using the p parameter
-   // maybe call some other service 
-   // that takes a long time to complete
-   
-   // when that is finally completed.
-   // it calls back
-   // by just calling the callback function
-   callback();
-}
-
-// The above is invoked like this, for example
-module.doSomething(123, function () {
-	console.log("it's done!");
-});
-
 ---
 title: Research
 summary: Here we describe how to add a page to your site.
@@ -30,6 +14,22 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
+function doSomething(p, callback){
+   // does something using the p parameter
+   // maybe call some other service 
+   // that takes a long time to complete
+   
+   // when that is finally completed.
+   // it calls back
+   // by just calling the callback function
+   callback();
+}
+
+// The above is invoked like this, for example
+module.doSomething(123, function () {
+	console.log("it's done!");
+});
+ 
 ---
 
 
