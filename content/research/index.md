@@ -23,7 +23,6 @@ header:
   
 <div class=article-container><div class=article-style>
 
-
 <h2 id=working-papers>Working Papers</h2>
   
 <hr>
