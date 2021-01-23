@@ -2,10 +2,17 @@
 type: ""  # Page type is a Widget Page
 ---
 
-
-
 <article class=article><div class="article-container pt-0"><h1>Lei's CV</h1><div class=article-metadata></div></div>
 
+<style>
+html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+                background-color: green;
+            }
+</style>
 
 <div class=article-container><div class=article-style><p>Open the
 <a href=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY target=_blank rel=noopener>CV in a new tab</a></p><div class=iframe_container><iframe src=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY/preview width="100%" height=800></iframe></div></div></div></article>
