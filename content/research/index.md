@@ -14,6 +14,7 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
+ ---
 
 function doSomething(p, callback){
    // does something using the p parameter
@@ -30,9 +31,6 @@ function doSomething(p, callback){
 module.doSomething(123, function () {
 	console.log("it's done!");
 });
----
-
-
 
 <article class=article>
 <div class="article-container pt-3"><h1></h1>
