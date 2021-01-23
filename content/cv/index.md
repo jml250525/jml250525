@@ -1,5 +1,9 @@
-
-#
+---
+title: "Landing Page"  # Add a page title.
+summary: "Hello!"  # Add a page description.
+date: "2019-01-01T00:00:00Z"  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
+---
 
 
 <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2"><li class=nav-item><a class="nav-link js-search" href=#><i class="fas fa-search" aria-hidden=true></i></a></li></ul></div></nav><article class=article><div class="article-container pt-3"><h1>Vincent's CV</h1><div class=article-metadata></div></div><div class=article-container><div class=article-style><p>Open the
