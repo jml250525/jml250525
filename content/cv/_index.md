@@ -17,6 +17,7 @@ html, body {
 h {
   font-size: 40px;
 }
+</styple>
 
 <div class=article-container><div class=article-style><p>Open the
 <a href=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY target=_blank rel=noopener>CV in a new tab</a></p><div class=iframe_container><iframe src=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY/preview width="100%" height=800 id="iFrame1"></iframe></div></div></div></article>
