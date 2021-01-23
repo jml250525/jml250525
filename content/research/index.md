@@ -1,5 +1,3 @@
-summary: "Summary of my post."
-
 <article class=article>
 <div class="article-container pt-3"><h1></h1>
 <div class=article-metadata></div>
