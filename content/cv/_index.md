@@ -18,8 +18,32 @@ h {
   font-size: 42px;
 }
 </style>
+
+<script type="application/javascript">
+
+function resizeIFrameToFitContent(iFrame) {
+
+    iFrame.width  = iFrame.contentWindow.document.body.scrollWidth;
+    iFrame.height = iFrame.contentWindow.document.body.scrollHeight;
+}
+
+window.addEventListener('DOMContentLoaded', function(e) {
+
+    var iFrame = document.getElementById( 'iFrame1' );
+    resizeIFrameToFitContent( iFrame );
+
+    // or, to resize all iframes:
+    var iframes = document.querySelectorAll("iframe");
+    for( var i = 0; i < iframes.length; i++) {
+        resizeIFrameToFitContent( iframes[i] );
+    }
+} );
+
+</script>
+
+
 <div class=article-container><div class=article-style><p>Open the
-<a href=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY target=_blank rel=noopener>CV in a new tab</a></p><div class=iframe_container><iframe src=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY/preview width="800" height=800></iframe></div></div></div></article>
+<a href=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY target=_blank rel=noopener>CV in a new tab</a></p><div class=iframe_container><iframe src=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY/preview width="100%" height=800 id="iFrame1"></iframe></div></div></div></article>
 
 <script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin=anonymous></script>
 
