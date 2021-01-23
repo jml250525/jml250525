@@ -24,9 +24,6 @@ header:
 <div class=article-container><div class=article-style>
 
 
-function onClickCallback(event){if((event.target.tagName!=='A')||(event.target.host===window.location.host)){return;}
-
-
 <h2 id=working-papers>Working Papers</h2>
   
 <hr>
