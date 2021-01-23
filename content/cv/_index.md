@@ -15,7 +15,7 @@ html, body {
             }
   
 h {
-  font-size: 38px;
+  font-size: 42px;
 }
 
 
