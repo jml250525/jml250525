@@ -1,6 +1,6 @@
 #
 
-<li class=nav-item><a class="nav-link js-search" href=#><i class="fas fa-search" aria-hidden=true></i></a></li></div></nav>
+<li class=nav-item><a class="nav-link js-search" href=#><i class="fas fa-search" aria-hidden=true></i></a></li>
 
 <article class=article>
   <div class="article-container pt-3"><h1>Lei's CV</h1><div class=article-metadata></div></div>
