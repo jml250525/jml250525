@@ -6,7 +6,7 @@ type: ""  # Page type is a Widget Page
 
 <style>
 html, body {
-                width: 105%;
+                width: 100%;
                 height: 100%;
                 margin: 0;
                 padding: 0;
