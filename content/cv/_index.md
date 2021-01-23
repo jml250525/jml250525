@@ -13,6 +13,17 @@ html, body {
                 padding: 0;
                 background-color: white;
             }
+  #container {
+                width: inherit;
+                height: inherit;
+                margin: 0;
+                padding: 0;
+                background-color: pink;
+            }
+            h1 {
+                margin: 0;
+                padding: 0;
+            }
 </style>
 
 <div class=article-container><div class=article-style><p>Open the
