@@ -3,7 +3,7 @@ type: ""  # Page type is a Widget Page
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<article class=article><div class="article-container pt-0"><h1>Lei's CV</h1><div class=article-metadata></div></div>
+<article class=article><div class="article-container pt-0"><h>Lei's CV</h><div class=article-metadata></div></div>
 
 <style>
 html, body {
@@ -13,17 +13,12 @@ html, body {
                 padding: 0;
                 background-color: white;
             }
-  #container {
-                width: inherit;
-                height: inherit;
-                margin: 0;
-                padding: 0;
-                background-color: pink;
-            }
-            h1 {
-                margin: 0;
-                padding: 0;
-            }
+  
+h {
+  font-size: 35px;
+}
+
+
 </style>
 
 <div class=article-container><div class=article-style><p>Open the
