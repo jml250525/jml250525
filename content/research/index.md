@@ -18,11 +18,6 @@ header:
 
 function onClickCallback(event){if((event.target.tagName!=='A')||(event.target.host===window.location.host)){return;}
 
-// The above is invoked like this, for example
-module.doSomething(123, function () {
-	console.log("it's done!");
-});
-
 <article class=article>
 <div class="article-container pt-3"><h1></h1>
 <div class=article-metadata></div>
