@@ -19,6 +19,10 @@ se {
   font-size: 20px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 </style>
 
 <div class=article-container><div class=article-style>
