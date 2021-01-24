@@ -20,7 +20,7 @@ div.w1 {
 </style>
 
 <div class="w1">
-<h2 id=working-papers>Working Papers</h2>
+<h2>Working Papers</h2>
 </div>
 <hr>
 
