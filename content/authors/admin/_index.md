@@ -15,7 +15,7 @@ social:
       header: false
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY
+    link: https://drive.google.com/file/d/1ar8Hr9R7Z_vvRtebUrFGOuDB3msY0tCY
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-1398-067X
