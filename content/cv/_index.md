@@ -54,9 +54,11 @@ h {
 
 <div class=container><footer class=site-footer><span class=float-right aria-hidden=true><a href=# class=back-to-top><span class=button_icon><i class="fas fa-chevron-up fa-2x"></i></span></a></span></p></footer></div>
 
+<style>
 html {
   scroll-behavior: smooth;
 }
+</style>
 
 <div id=modal class="modal fade" role=dialog><div class=modal-dialog><div class=modal-content><div class=modal-header><h5 class=modal-title>Cite</h5><button type=button class=close data-dismiss=modal aria-label=Close>
 <span aria-hidden=true>&#215;</span></button></div><div class=modal-body><pre><code class="tex hljs"></code></pre></div><div class=modal-footer><a class="btn btn-outline-primary my-1 js-copy-cite" href=# target=_blank><i class="fas fa-copy"></i>Copy</a>
