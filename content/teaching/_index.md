@@ -12,7 +12,7 @@ html, body {
          }
   
 he {
-  font-size: 40px;
+  font-size: 30px;
 }
 
 se {
@@ -27,7 +27,7 @@ ul {
 
 <div class=article-container><div class=article-style>
 
-<he>Working Papers</he>
+<he>Instructor, University of Arlington</he>
   
 <hr>
 
@@ -49,7 +49,7 @@ This paper theoretically and behaviorally studies contract bargaining in two-sid
     </ul>
  </li></ol>
 
-<he>Teaching Assistant</he>
+<he>Teaching Assistant, University of Arlington</he>
   
 <hr>
 
