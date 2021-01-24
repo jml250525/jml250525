@@ -1,7 +1,9 @@
 ---
 type: ""  # Page type is a Widget Page
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;
+<div class="article-container pt-3"><h1></h1>
+<div class=article-metadata></div>
+</div>
 
 <style>
 html, body {
