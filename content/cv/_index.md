@@ -2,7 +2,10 @@
 type: ""  # Page type is a Widget Page
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+<head>
+<script src="jQuery.min.js"></script>  
+<script src="jQuery.scrollSpeed.js"></script>
+</head>  
 <article class=article><div class="article-container pt-0"><h>Lei's CV</h><div class=article-metadata></div></div>
 
 <style>
@@ -63,4 +66,12 @@ html {
   </span>
 </div>
 
+$(function() {  
 
+    // Default
+    jQuery.scrollSpeed(100, 800);
+    
+    // Custom Easing
+    jQuery.scrollSpeed(100, 800, 'easeOutCubic');
+    
+});
