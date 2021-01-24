@@ -20,7 +20,7 @@ se {
 }
 
 pa {
-  font-size: 10px;
+  font-size: 5px;
 }
 
 
