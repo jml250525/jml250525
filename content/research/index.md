@@ -1,8 +1,5 @@
 ---
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+type: ""  # Page type is a Widget Page
 ---
 
 <article class=article>
