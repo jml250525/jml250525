@@ -2,20 +2,7 @@
 type: ""  # Page type is a Widget Page
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<style>
-html, body {
-                margin:  0;
-                padding: 0;
-         }
-  
-h {
-  font-size: 40px;
-}
-
-</style>
-
+<article class=article>
 <div class="article-container pt-3"><h1></h1>
 <div class=article-metadata></div>
 </div>
@@ -55,4 +42,5 @@ This paper studies a sales problem with one supplier and multiple potential reta
 <details class=abstract><summary markdown=span>Summary (click to expand)</summary>
 We develop deep neural network-based artificial intelligent (AI) agents to play the trust game, a simple economics scenario popular in the literature, to study trust and trustworthiness behaviors in human subjects. We establish that trust and trustworthiness behaviors, defined by the trust game, can be discovered by, and emerged from, self-learning processes of these artificial intelligence agents, under the right conditions. The training process involved no data that contains any information about trust, nor specific assumptions about trusts built into the process. Hence, we show that artificial intelligent agents can discover trust and trustworthiness behaviors by pure interacting and learning with one another. We also identify conditions, including caring about the future, have access to records of past actions and stable training partners, that enable trust and trustworthiness to emerge.</details><br>
 
-<p></p></div></div>
+<p></p></div></div></article>
+
