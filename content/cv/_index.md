@@ -7,7 +7,7 @@ type: ""  # Page type is a Widget Page
 <article class=article><div class="article-container pt-0"><h>Lei's CV</h><div class=article-metadata></div></div>
 
 <style>
-html, body {
+body {
                 width: 100%;
                 height: 100%;
                 margin: 0;
@@ -55,6 +55,7 @@ html {
       </div>
       </div>
 </script><script src=https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin=anonymous></script><script src=/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js></script>
+
 
 <div class=container>
   <span class=float-right aria-hidden=true>
