@@ -1,16 +1,7 @@
 ---
 type: ""  # Page type is a Widget Page
 ---
-
-<html lang="en-US">
-<body>
-  <a href="#bottom" id="down1" class="down" style="display:block"></a>
-  
-
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
 
 <article class=article><div class="article-container pt-0"><h>Lei's CV</h><div class=article-metadata></div></div>
 
@@ -66,29 +57,10 @@ html {
 
 <div class=container>
   <span class=float-right aria-hidden=true>
-<a name="bottom" id="bottom"><span class=button_icon><i class="fas fa-chevron-up fa-2x"></i></span></a></span></div>
-  <!-- load jquery however you like I will load from Google CDN -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-  <script>
-    // Document ready shorthand statement
-    $(function() {
-      // Select link by id and add click event
-      $('#down1').click(function() {
-
-        // Animate Scroll to #bottom
-        $('html,body').animate({
-          scrollTop: $("#bottom").offset().top }, // Tell it to scroll to the top #bottom
-          1000 // How long scroll will take in milliseconds
-        );
-
-        // Prevent default behavior of link
-        return false;
-      });
-    });
-  </script>
-
-
-</body>
-</html>
+    <a href=#top class=back-to-top>
+      <span class=button_icon><i class="fas fa-chevron-up fa-2x"></i></span>
+    </a>
+  </span>
+</div>
 
 
