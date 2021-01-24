@@ -16,6 +16,9 @@ h {
 
 div.w1 {
   width: 800px;
+  position: absolute; 
+  display: inline-block;
+  margin: auto;
 }
 </style>
 
