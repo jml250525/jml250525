@@ -16,11 +16,11 @@ he {
 }
 
 se {
-  font-size: 30px;
+  font-size: 20px;
 }
 
 pa {
-  font-size: 20px;
+  font-size: 10px;
 }
 
 
