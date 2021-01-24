@@ -9,8 +9,7 @@ type: ""  # Page type is a Widget Page
 html, body {
                 margin: 0;
                 padding: 0;
-                background-color: white;
-            }
+         }
   
 h {
   font-size: 40px;
