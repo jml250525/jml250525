@@ -13,6 +13,8 @@ html, body {
   
 he {
   font-size: 30px;
+  padding: 3px;    
+   border-width: 10px;
   border-bottom: 1px grey solid; 
 }
 
