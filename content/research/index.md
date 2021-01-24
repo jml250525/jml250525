@@ -5,22 +5,16 @@ type: ""  # Page type is a Widget Page
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<style>
-html, body {
-                margin:  0;
-                padding: 0;
-         }
-  
-h {
-  font-size: 40px;
-}
-
-</style>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
 
 
-<div class=article-container><div class=article-style>
-
+<div class="w3-container">
 <h2 id=working-papers>Working Papers</h2>
+</div>
   
 <hr>
 
