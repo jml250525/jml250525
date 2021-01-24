@@ -3,7 +3,7 @@ type: ""  # Page type is a Widget Page
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<article class=article><div class="article-container pt-0"><h>Lei's CV</h><div class=article-metadata></div></div>
+<div class="article-container pt-0"><h>Lei's CV</h><div class=article-metadata></div></div>
 
 <style>
 body {
@@ -38,7 +38,7 @@ h {
 </style>
 
 <div class=article-container><div class=article-style><p>Open the
-<a href=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY target=_blank rel=noopener>CV in a new tab</a></p></div></div></article>
+<a href=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY target=_blank rel=noopener>CV in a new tab</a></p></div></div>
   
 <div class="iframe-container"><iframe src=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY/preview></iframe></div>
 
