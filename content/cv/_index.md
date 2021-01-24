@@ -70,7 +70,7 @@ html {
 $(function() {  
 
     // Custom Easing
-    jQuery.scrollSpeed(100, 800, 'easeOutCubic');
+    jQuery.scrollSpeed(100, 2000, 'easeOutCubic');
     
 });
 </script>
