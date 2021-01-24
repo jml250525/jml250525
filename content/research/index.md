@@ -23,6 +23,10 @@ ul {
   list-style-type: none;
 }
 
+hr { 
+  margin-top: -15px; margin-bottom: 8px;
+}
+
 </style>
 
 <div class=article-container><div class=article-style>
