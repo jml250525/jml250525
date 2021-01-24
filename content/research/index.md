@@ -11,15 +11,15 @@ html, body {
                 padding: 0;
          }
   
-h1 {
+h {
   font-size: 40px;
 }
 
-h2 {
+s {
   font-size: 30px;
 }
 
-h3 {
+pa {
   font-size: 20px;
 }
 
@@ -28,14 +28,14 @@ h3 {
 
 <div class=article-container><div class=article-style>
 
-<h1>Working Papers</h1>
+<h>Working Papers</h>
   
 <hr>
 
-<ol><li><h2><strong>Network Asymmetry and Supply Contract Competition</strong>. Joint work with Alper Nakkas and Kay-Yut Chen. will submit to <em>Management Science</em> soon.</h2></li></ol>
+<ol><li><s><strong>Network Asymmetry and Supply Contract Competition</strong>. Joint work with Alper Nakkas and Kay-Yut Chen. will submit to <em>Management Science</em> soon.</s></li></ol>
   
-<h3><details class=abstract><summary markdown=span>Summary (click to expand)</summary>
-We build a game-theoretic model to examine supply contract negotiations under competition when retailers have asymmetric supplier bases. We represent the asymmetric supplier bases with a two-retailer-two-supplier network in which one retailer has access to both suppliers and other retailer has access to only one supplier. The retailers first negotiate supply contracts with their suppliers to gain exclusive selling rights and then the retailers who manage to secure a contract with a supplier choose their market prices. The asymmetric structure of supply network together with retailer level competition dynamics determine the contract bargaining incentives of retailers and suppliers. We find that supply chain network asymmetry can lead to a retail monopoly when the suppliers' products are sufficiently substitutable. Further, if the substitutability level continues to rise, the retailer with larger supplier base gain benefits in contract agreement through negotiations. We also show that total industry profits can be higher under asymmetric network structure as compared to that under complete network structure. Overall, our research suggests that the supply chain network structure can fundamentally impact firms' contracting behaviors, and thus, needs to be considered to better reflect the reality of contractual negotiation under competition.</details></h3>
+<pa><details class=abstract><summary markdown=span>Summary (click to expand)</summary>
+We build a game-theoretic model to examine supply contract negotiations under competition when retailers have asymmetric supplier bases. We represent the asymmetric supplier bases with a two-retailer-two-supplier network in which one retailer has access to both suppliers and other retailer has access to only one supplier. The retailers first negotiate supply contracts with their suppliers to gain exclusive selling rights and then the retailers who manage to secure a contract with a supplier choose their market prices. The asymmetric structure of supply network together with retailer level competition dynamics determine the contract bargaining incentives of retailers and suppliers. We find that supply chain network asymmetry can lead to a retail monopoly when the suppliers' products are sufficiently substitutable. Further, if the substitutability level continues to rise, the retailer with larger supplier base gain benefits in contract agreement through negotiations. We also show that total industry profits can be higher under asymmetric network structure as compared to that under complete network structure. Overall, our research suggests that the supply chain network structure can fundamentally impact firms' contracting behaviors, and thus, needs to be considered to better reflect the reality of contractual negotiation under competition.</details></pa>
 
 <ol start=2><li><strong>Desperateness in Contract Bargaining under Supply Chain Networks</strong>. Joint work with Alper Nakkas, Kay-Yut Chen and Jason Xianghua Wu. will submit to <em>Management Science</em>.</li></ol>
 
