@@ -2,6 +2,11 @@
 type: ""  # Page type is a Widget Page
 ---
 
+var removeWhitespace = require('whitespace-remove');
+
+removeWhitespace('foo\n bar\n');
+// => 'foo\nbar\n'
+
 <article class=article><div class="article-container pt-0"><h2 id=working-papers>Working Papers</h2><div class=article-metadata></div></div
 
 <article class=article>
