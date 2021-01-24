@@ -12,7 +12,7 @@ html, body {
          }
   
 he {
-  font-size: 40px;
+  font-size: 30px;
 }
 
 se {
@@ -24,7 +24,7 @@ ul {
 }
 
 hr { 
-  margin-top: -15px; margin-bottom: 8px;
+  margin-top: -15px; margin-bottom: 10px;
 }
 
 </style>
