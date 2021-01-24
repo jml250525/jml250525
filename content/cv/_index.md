@@ -3,8 +3,6 @@ type: ""  # Page type is a Widget Page
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<div class="article-container pt-0"><h>Lei's CV</h><div class=article-metadata></div></div>
-
 <style>
 body {
                 width: 100%;
