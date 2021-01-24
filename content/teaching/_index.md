@@ -44,11 +44,11 @@ se {
 <hr>
 
 <ul>
-<li><se><strong>Game Theory Seminar: Ph.D. Level (Spring 2021)</strong></se>
-<li><se><strong>Operations Management: Master's Level (Spring 2020)</strong></se>
-<li><se><strong>Operations Management: Master's Level (Fall 2019, Fall 2018)</strong></se>
-<li><se><strong>Introduction to Management Science: Master's Level (Fall 2018)</strong></se>
-<li><se><strong>Enterprise Resource Planning: Master's Level (Fall 2018)</strong></se>
+  <li><se><strong>Game Theory Seminar:</strong> Ph.D. Level (Spring 2021)</se>
+<li><se><strong>Operations Management:</strong> Master's Level (Spring 2020)</se>
+<li><se><strong>Operations Management:</strong> Master's Level (Fall 2019, Fall 2018)</se>
+<li><se><strong>Introduction to Management Science:</strong> Master's Level (Fall 2018)</se>
+<li><se><strong>Enterprise Resource Planning:</strong> Master's Level (Fall 2018)</se>
 </ul>
 
 <p></p></div></div></article>
