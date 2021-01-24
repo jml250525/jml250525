@@ -9,9 +9,7 @@ type: ""  # Page type is a Widget Page
  
  <style>
   
-h{
-  margin:0;padding:0
-  }
+line-height: 0px;
   
   </style>
   
