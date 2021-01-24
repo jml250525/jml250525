@@ -5,6 +5,17 @@ type: ""  # Page type is a Widget Page
 <div class="article-container pt-0"><h1></h1>
 <div class=article-metadata></div>
 </div>
+<style>
+html, body {
+                margin: 0;
+                padding: 0;
+                background-color: white;
+            }
+  
+h {
+  font-size: 40px;
+}
+</style>
   
 <div class=article-container><div class=article-style>
 
