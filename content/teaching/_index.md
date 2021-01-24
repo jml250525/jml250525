@@ -13,7 +13,7 @@ html, body {
   
 he {
   font-size: 30px;
-  border-bottom: 1px; 
+  border-bottom: 1px grey solid; 
 }
 
 se {
@@ -29,7 +29,6 @@ li{
 <div class=article-container><div class=article-style>
 
 <he>Instructor, University of Arlington</he>
-<hr>
 
 <ul><li><se><strong>Operations Management:</strong></se>
   <ul>
@@ -48,7 +47,6 @@ li{
  </li></ul>
 
 <he>Teaching Assistant, University of Arlington</he> 
-<hr>
 
 <ul>
   <li><se>Game Theory Seminar: Ph.D. Level (Spring 2021)</se>
