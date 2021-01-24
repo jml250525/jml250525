@@ -2,6 +2,8 @@
 type: ""  # Page type is a Widget Page
 ---
 
+$ npm i --save whitespace-remove
+
 var removeWhitespace = require('whitespace-remove');
 
 removeWhitespace('foo\n bar\n');
