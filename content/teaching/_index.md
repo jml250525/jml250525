@@ -43,6 +43,13 @@ se {
 <he>Teaching Assistant, University of Arlington</he> 
 <hr>
 
+<ul>
+<li><se><strong>Game Theory Seminar: Ph.D. Level (Spring 2021)</strong></se>
+<li><se><strong>Operations Management: Master's Level (Spring 2020)</strong></se>
+<li><se><strong>Operations Management: Master's Level (Fall 2019, Fall 2018)</strong></se>
+<li><se><strong>Introduction to Management Science: Master's Level (Fall 2018)</strong></se>
+<li><se><strong>Enterprise Resource Planning: Master's Level (Fall 2018)</strong></se>
+</ul>
 
 <p></p></div></div></article>
 
