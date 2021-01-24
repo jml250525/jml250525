@@ -26,19 +26,19 @@ se {
 <he>Instructor, University of Arlington</he>
 <hr>
 
-<ol><li><se><strong>Operations Management: Fall 2020, Spring 2020, Fall 2019</strong></se>
+<ul><li><se><strong>Operations Management: Fall 2020, Spring 2020, Fall 2019</strong></se>
   <ul>
   <li><p style="font-size:16px;">Teaching evaluation: 4.40/5.0; 4.32/5.0; 4.42/5.0</p></li>  
   <li><p style="font-size:16px;">Enrollment: 76; 72; 70</em></p></li>
   </ul>
- </li></ol>
+ </li>
 
-<ol start=2><li><se><strong>Business Statistics: Summer 2020, Summer 2019, Spring 2019</strong></se>
+<li><se><strong>Business Statistics: Summer 2020, Summer 2019, Spring 2019</strong></se>
   <ul>
   <li><p style="font-size:16px;">Teaching evaluation: 4.38/5.0; 4.66/5.0; 4.14/5.0</p></li>  
   <li><p style="font-size:16px;">Enrollment: 69; 65; 63</em></p></li>
   </ul>
- </li></ol>
+ </li></ul>
 
 <he>Teaching Assistant, University of Arlington</he> 
 <hr>
