@@ -1,19 +1,7 @@
 ---
 type: ""  # Page type is a Widget Page
 ---
-
-<script language="javascript" type="text/javascript">
-function removeSpaces(string) {
- return string.split(' ').join('');
-}
-</script>
-
 <h2 id=working-papers>Working Papers</h2>
-
-<form>
-<input type="text" onblur="this.value=removeSpaces(this.value);">
-<input type="button" value="Click">
-</form>
 
 <div class="article-container pt-3"><div class=article-metadata></div></div><div class=article-container><div class=article-style><ol><li><strong>Network Asymmetry and Supply Contract Competition</strong>. Joint work with Alper Nakkas and Kay-Yut Chen. will submit to <em>Management Science</em> soon.</li></ol>
 <details class=abstract><summary markdown=span>Summary (click to expand)</summary>
