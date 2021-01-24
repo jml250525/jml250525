@@ -37,6 +37,8 @@ font_size = "L"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
+i_am_a_sponsor = true
+
 site_type = "Person"
 
 # Local business type (optional)
