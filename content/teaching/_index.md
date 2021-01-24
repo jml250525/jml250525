@@ -13,7 +13,7 @@ html, body {
   
 he {
   font-size: 30px;
-  margin: 2px;
+  margin: 1px;
 }
 
 se {
