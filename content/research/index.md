@@ -15,8 +15,7 @@ h {
 }
 
 div.w1 {
-  width: 800px;
-  position: absolute; 
+  width: 800px; 
   display: inline-block;
   margin: auto;
 }
