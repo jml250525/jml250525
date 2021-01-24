@@ -6,7 +6,7 @@ type: ""  # Page type is a Widget Page
 
 <style>
 html, body {
-                margin: 10;
+                margin:  0;
                 padding: 0;
          }
   
@@ -16,7 +16,6 @@ h {
 
 div.w1 {
   width: 800px;
-  margin: auto;
 }
 </style>
 
