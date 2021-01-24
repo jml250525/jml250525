@@ -2,24 +2,14 @@
 type: ""  # Page type is a Widget Page
 ---
 
-$ npm i --save whitespace-remove
-
-var removeWhitespace = require('whitespace-remove');
-
-removeWhitespace('foo\n bar\n');
-// => 'foo\nbar\n'
-
-<article class=article><div class="article-container pt-0"><h2 id=working-papers>Working Papers</h2><div class=article-metadata></div></div
+<article class=article><div class="article-container pt-0"><h2 id=working-papers>Working Papers</h2><div class=article-metadata></div></div>
 
 <article class=article>
 <div class="article-container pt-3"><h1></h1>
-<div class=article-metadata></div>
-</div>
+<div class=article-metadata></div></div>
   
 <div class=article-container><div class=article-style>
-
 <hr>
-
 <ol><li><strong>Network Asymmetry and Supply Contract Competition</strong>. Joint work with Alper Nakkas and Kay-Yut Chen. will submit to <em>Management Science</em> soon.</li></ol>
   
 <details class=abstract><summary markdown=span>Summary (click to expand)</summary>
