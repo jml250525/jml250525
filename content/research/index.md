@@ -59,7 +59,7 @@ This paper studies a sales problem with one supplier and multiple potential reta
  </ul>
  </li></ol>
  
-<ol start=4><li><se><strong>Can Artificial Intelligence Discover Trust and Trustworthiness?</strong>. Joint work with Jason Xianghua Wu, Kay-Yut Chen, Dianna Yan Wu. will submit to <em>Science</em>.</se>
+<ol start=4><li><se><strong>Can Artificial Intelligence Discover Trust and Trustworthiness?</strong></se>
   <ul>
   <li><p style="font-size:16px;">Authors: Jason Xianghua Wu, Kay-yut Chen, Dianna Yan Wu and Lei Hua</p></li>  
   <li><p style="font-size:16px;">Target at <em>Science</em></p></li>
