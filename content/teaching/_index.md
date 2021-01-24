@@ -16,11 +16,11 @@ he {
 }
 
 se {
-  font-size: 20px;
+  font-size: 16px;
 }
 
-sx {
-  font-size: 15px;
+li{
+  margin: 2px 0;
 }
 
 </style>
