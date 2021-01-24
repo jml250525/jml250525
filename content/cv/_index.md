@@ -39,7 +39,7 @@ h {
 <div class=article-container><div class=article-style><p>Open the
 <a href=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY target=_blank rel=noopener>CV in a new tab</a></p></div></div>
   
-<div class="iframe-container"><iframe src=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY/preview allowfullscreen></iframe></div>
+<div class="iframe-container"><iframe src=https://drive.google.com/file/d/1l66cByJDQf6FLQPA-rFwVyDKqQPRFCgY/preview height=1000></iframe></div>
 
 <script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin=anonymous></script>
 
