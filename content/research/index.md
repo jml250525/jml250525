@@ -19,11 +19,6 @@ se {
   font-size: 20px;
 }
 
- {
-  font-size: 5px;
-}
-
-
 </style>
 
 <div class=article-container><div class=article-style>
