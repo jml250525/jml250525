@@ -13,7 +13,6 @@ html, body {
   
 he {
   font-size: 30px;
-  margin: 1px;
 }
 
 se {
@@ -23,6 +22,11 @@ se {
 li{
   margin: 2px 0;
 }
+
+hr { 
+  margin-top: 2px; margin-bottom: 2px 
+}
+
 
 </style>
 
