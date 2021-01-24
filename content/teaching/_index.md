@@ -16,7 +16,7 @@ he {
 }
 
 se {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 li{
@@ -37,17 +37,17 @@ hr {
 
 <ul><li><se><strong>Operations Management:</strong></se>
   <ul>
-  <li><p style="font-size:16px;">Semesters: Fall 2020; Spring 2020; Fall 2019</em></p></li>
-  <li><p style="font-size:16px;">Teaching evaluation: 4.40/5.0; 4.32/5.0; 4.42/5.0</p></li>  
-  <li><p style="font-size:16px;">Enrollment: 76; 72; 70</em></p></li>
+  <li><p style="font-size:18px;">Semesters: Fall 2020; Spring 2020; Fall 2019</em></p></li>
+  <li><p style="font-size:18px;">Teaching evaluation: 4.40/5.0; 4.32/5.0; 4.42/5.0</p></li>  
+  <li><p style="font-size:18px;">Enrollment: 76; 72; 70</em></p></li>
   </ul>
  </li>
 
 <li><se><strong>Business Statistics:</strong></se>
   <ul>
-  <li><p style="font-size:16px;">Semesters: Summer 2020; Summer 2019; Spring 2019</em></p></li>
-  <li><p style="font-size:16px;">Teaching evaluation: 4.38/5.0; 4.66/5.0; 4.14/5.0</p></li>  
-  <li><p style="font-size:16px;">Enrollment: 69; 65; 63</em></p></li>
+  <li><p style="font-size:18px;">Semesters: Summer 2020; Summer 2019; Spring 2019</em></p></li>
+  <li><p style="font-size:18px;">Teaching evaluation: 4.38/5.0; 4.66/5.0; 4.14/5.0</p></li>  
+  <li><p style="font-size:18px;">Enrollment: 69; 65; 63</em></p></li>
   </ul>
  </li></ul>
 
