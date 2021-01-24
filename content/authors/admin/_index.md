@@ -34,7 +34,9 @@ organizations:
     url: https://www.uta.edu
 education:
   courses:
-    - course: PhD in Business Administration (Management Science), Expected 2021
+    - icon: envelope
+      icon_pack: fas
+      course: PhD in Business Administration (Management Science), Expected 2021
       institution: University of Texas at Arlington
       year: ""
     - course: MSc in Accounting
