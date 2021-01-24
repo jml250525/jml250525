@@ -2,7 +2,20 @@
 type: ""  # Page type is a Widget Page
 ---
 
-<h2 id=working-papers>Working Papers</h2><div class="article-container pt-3"><div class=article-metadata></div></div><div class=article-container><div class=article-style><ol><li><strong>Network Asymmetry and Supply Contract Competition</strong>. Joint work with Alper Nakkas and Kay-Yut Chen. will submit to <em>Management Science</em> soon.</li></ol>
+<script language="javascript" type="text/javascript">
+function removeSpaces(string) {
+ return string.split(' ').join('');
+}
+</script>
+
+<h2 id=working-papers>Working Papers</h2>
+
+<form>
+<input type="text" onblur="this.value=removeSpaces(this.value);">
+<input type="button" value="Click">
+</form>
+
+<div class="article-container pt-3"><div class=article-metadata></div></div><div class=article-container><div class=article-style><ol><li><strong>Network Asymmetry and Supply Contract Competition</strong>. Joint work with Alper Nakkas and Kay-Yut Chen. will submit to <em>Management Science</em> soon.</li></ol>
 <details class=abstract><summary markdown=span>Summary (click to expand)</summary>
 We build a game-theoretic model to examine supply contract negotiations under competition when retailers have asymmetric supplier bases. We represent the asymmetric supplier bases with a two-retailer-two-supplier network in which one retailer has access to both suppliers and other retailer has access to only one supplier. The retailers first negotiate supply contracts with their suppliers to gain exclusive selling rights and then the retailers who manage to secure a contract with a supplier choose their market prices. The asymmetric structure of supply network together with retailer level competition dynamics determine the contract bargaining incentives of retailers and suppliers. We find that supply chain network asymmetry can lead to a retail monopoly when the suppliers' products are sufficiently substitutable. Further, if the substitutability level continues to rise, the retailer with larger supplier base gain benefits in contract agreement through negotiations. We also show that total industry profits can be higher under asymmetric network structure as compared to that under complete network structure. Overall, our research suggests that the supply chain network structure can fundamentally impact firms' contracting behaviors, and thus, needs to be considered to better reflect the reality of contractual negotiation under competition.</details>
 
