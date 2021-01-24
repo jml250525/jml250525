@@ -33,7 +33,7 @@ se {
   </ul>
  </li></ol>
 
-<ol><li><se><strong>Business Statistics: Summer 2020, Summer 2019, Spring 2019</strong></se>
+<ol start=2><li><se><strong>Business Statistics: Summer 2020, Summer 2019, Spring 2019</strong></se>
   <ul>
   <li><p style="font-size:16px;">Teaching evaluation: 4.38/5.0; 4.66/5.0; 4.14/5.0</p></li>  
   <li><p style="font-size:16px;">Enrollment: 69; 65; 63</em></p></li>
