@@ -19,6 +19,10 @@ se {
   font-size: 20px;
 }
 
+sx {
+  font-size: 15px;
+}
+
 </style>
 
 <div class=article-container><div class=article-style>
@@ -41,16 +45,16 @@ se {
   <li><p style="font-size:16px;">Enrollment: 69; 65; 63</em></p></li>
   </ul>
  </li></ul>
-<br>
+
 <he>Teaching Assistant, University of Arlington</he> 
 <hr>
 
 <ul>
-  <li><se><strong>Game Theory Seminar:</strong> Ph.D. Level (Spring 2021)</se>
-<li><se><strong>Operations Management:</strong> Master's Level (Spring 2020)</se>
-<li><se><strong>Global Supply Chain Management:</strong> Master's Level (Fall 2019, Fall 2018)</se>
-<li><se><strong>Introduction to Management Science:</strong> Master's Level (Fall 2018)</se>
-<li><se><strong>Enterprise Resource Planning:</strong> Master's Level (Fall 2018)</se>
+  <li><se><strong>Game Theory Seminar:</strong></se> <sx>Ph.D. Level (Spring 2021)</sx>
+  <li><se><strong>Operations Management:</strong></se> <sx>Master's Level (Spring 2020)</sx>
+ <li><se><strong>Global Supply Chain Management:</strong></se> <sx>Master's Level (Fall 2019, Fall 2018)</sx>
+  <li><se><strong>Introduction to Management Science:</strong></se> <sx>Master's Level (Fall 2018)</sx>
+  <li><se><strong>Enterprise Resource Planning:</strong></se> <sx>Master's Level (Fall 2018)</sx>
 </ul>
 
 <p></p></div></div></article>
