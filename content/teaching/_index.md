@@ -24,7 +24,7 @@ li{
 }
 
 hr { 
-  margin-top: 2px; margin-bottom: 2px 
+  margin-top: 0px; margin-bottom: 3px 
 }
 
 
