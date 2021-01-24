@@ -5,14 +5,18 @@ type: ""  # Page type is a Widget Page
 
 
 <article class=article><div class="article-container pt-0"> 
-  <style type="text/css"> 
+ 
+  <h2 id=working-papers>Working Papers</h2><div class=article-metadata></div>
+   
+   <style type="text/css"> 
   div.nospaces {
       margin: 0;
       display: inline-block;
       float: left;
   }
 </style>
-  <h2 id=working-papers>Working Papers</h2><div class=article-metadata></div></div>
+  
+  </div>
   
  
   
