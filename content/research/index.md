@@ -2,7 +2,12 @@
 type: ""  # Page type is a Widget Page
 ---
 
-<style>
+
+<article class=article><div class="article-container pt-0"> 
+ 
+  <h2 id=working-papers>Working Papers</h2><div class=article-metadata></div>
+ 
+ <style>
   
 h{
   margin:0;padding:0
@@ -10,9 +15,6 @@ h{
   
   </style>
   
-<article class=article><div class="article-container pt-0"> 
- 
-  <h2 id=working-papers>Working Papers</h2><div class=article-metadata></div>
  
   </div>
   
