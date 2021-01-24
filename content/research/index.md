@@ -2,7 +2,7 @@
 type: ""  # Page type is a Widget Page
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <article class=article><div class="article-container pt-0"><h2 id=working-papers>Working Papers</h2><div class=article-metadata></div></div
 
