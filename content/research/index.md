@@ -2,10 +2,6 @@
 type: ""  # Page type is a Widget Page
 ---
 
-
-<div class="article-container pt-3"><h1></h1>
-<div class=article-metadata></div>
-</div>
 <style>
 html, body {
                 margin: 0;
@@ -14,6 +10,12 @@ html, body {
   
 h {
   font-size: 40px;
+}
+
+div.w1 {
+  width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
 }
 </style>
 <div>
