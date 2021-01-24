@@ -2,10 +2,8 @@
 type: ""  # Page type is a Widget Page
 ---
 
-&nbsp;&nbsp;&nbsp;
-
 <article class=article>
-<div class="article-container pt-0"><h1></h1>
+<div class="article-container pt-3"><h1></h1>
 <div class=article-metadata></div>
 </div>
 <style>
@@ -18,11 +16,12 @@ h {
   font-size: 40px;
 }
 </style>
-  
 <div class=article-container><div class=article-style>
 
 <h2 id=working-papers>Working Papers</h2>
- 
+  
+<hr>
+
 <ol><li><strong>Network Asymmetry and Supply Contract Competition</strong>. Joint work with Alper Nakkas and Kay-Yut Chen. will submit to <em>Management Science</em> soon.</li></ol>
   
 <details class=abstract><summary markdown=span>Summary (click to expand)</summary>
