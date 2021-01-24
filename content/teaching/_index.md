@@ -50,11 +50,11 @@ sx {
 <hr>
 
 <ul>
-  <li><se>Game Theory Seminar:</se> <sx>Ph.D. Level (Spring 2021)</sx>
-  <li><se>Operations Management:</se> <sx>Master's Level (Spring 2020)</sx>
- <li><se>Global Supply Chain Management:</se> <sx>Master's Level (Fall 2019, Fall 2018)</sx>
-  <li><se>Introduction to Management Science:</se> <sx>Master's Level (Fall 2018)</sx>
-  <li><se>Enterprise Resource Planning:</se> <sx>Master's Level (Fall 2018)</sx>
+  <li><se>Game Theory Seminar: Ph.D. Level (Spring 2021)</se>
+  <li><se>Operations Management: Master's Level (Spring 2020)</se>
+ <li><se>Global Supply Chain Management: Master's Level (Fall 2019, Fall 2018)</se>
+  <li><se>Introduction to Management Science: Master's Level (Fall 2018)</se>
+  <li><se>Enterprise Resource Planning: Master's Level (Fall 2018)</se>
 </ul>
 
 <p></p></div></div></article>
