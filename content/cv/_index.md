@@ -2,7 +2,7 @@
 type: ""  # Page type is a Widget Page
 ---
 <head>
-<title>My Title</title>
+<title>| My Title</title>
 </head>
 
 
