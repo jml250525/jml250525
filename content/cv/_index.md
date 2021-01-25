@@ -1,10 +1,6 @@
 ---
 type: ""  # Page type is a Widget Page
 ---
-<head>
-<title>| My Title</title>
-</head>
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
