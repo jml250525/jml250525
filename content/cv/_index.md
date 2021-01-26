@@ -1,14 +1,8 @@
 ---
 type: ""  # Page type is a Widget Page
 ---
-<html>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <head>
-  <title>
-    Try it
-  </title>
-  </head>
 
 <style>
 body {
@@ -73,5 +67,4 @@ h {
       </div>
 </script><script src=https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin=anonymous></script><script src=/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js></script>
 
-</html>
 
