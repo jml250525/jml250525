@@ -3,6 +3,12 @@ type: ""  # Page type is a Widget Page
 ---
 <html>
 &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <head>
+  <title>
+    Try it
+  </title>
+  </head>
 
 <style>
 body {
