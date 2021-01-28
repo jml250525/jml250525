@@ -93,7 +93,7 @@
       <div class="col-md-7">
         <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
         <ul class="ul-edu fa-ul">
-          {{ courses }}
+          {{ .courses }}
           <li>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
@@ -101,7 +101,7 @@
             </div>
           </li>
           {{ end }}
-           {{ courses }}
+           {{ .courses }}
           <li>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
@@ -109,7 +109,7 @@
             </div>
           </li>
           {{ end }}
-           {{ courses }}
+           {{ .courses }}
           <li>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
