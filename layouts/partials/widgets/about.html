@@ -95,17 +95,11 @@
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
           <li>
-            if(couses=1){
-           <i class="fa-li fas fa-graduation-cap"></i>
-            }else{
-              <i class="fa-li fas fa-square"></i> ;
-             }
+            <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
             </div>
-          </li>
-        
           </li>
           {{ end }}
         </ul>
@@ -115,3 +109,4 @@
     </div>
   </div>
 </div>
+
