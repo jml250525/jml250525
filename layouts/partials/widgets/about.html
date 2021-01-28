@@ -96,6 +96,8 @@
           {{ range .courses }}
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
+            {< figure src="/jml250525/jml250525/raw/master/static/media/logo%202.png">}
+           
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
