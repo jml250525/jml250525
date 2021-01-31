@@ -48,12 +48,7 @@ highlight_name: false
 title: Lei Hua
 email: ""
 ---
-
 <html>
-<div class="article-container pt-3"><h1></h1>
-<div class=article-metadata></div>
-</div>
-
 <style>
   
 he {
