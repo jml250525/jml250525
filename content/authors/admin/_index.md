@@ -52,11 +52,11 @@ email: ""
 <style>
   
 he {
-  font-size: 16px;
+  font-size: 12px;
 }
 
 se {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 </style>
