@@ -52,11 +52,16 @@ email: ""
 <style>
   
 he {
+  font-size: 16px;
+}
+
+se {
   font-size: 18px;
 }
 
 </style>
-
+<se>Hello!
+</se><br>
 
 <he>
 I am a PhD Candidate in Management Science at College of Business, University of Texas at Arlington. My research lies at the interface among behavioral operations, business analytics and theoretic modeling, with a focus on business context in complex supply chain networks. My main research blends different research methodologies to uncover novel managerial insights related to strategic sourcing and collaborative/competitive negotiation in different supply chain network structures. In my other research, I study on the applications of machine learning and AI in the areas of operations management and digital marketing.
