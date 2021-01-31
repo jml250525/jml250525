@@ -48,8 +48,6 @@ highlight_name: false
 title: Lei Hua
 email: ""
 ---
-I am a PhD Candidate in Management Science at College of Business, University of Texas at Arlington. I am interested in adopting a behavioral angle to understand and improve supply chain and operations management decisions. My dissertation blends analytical and experimental methods to investigate decision-making problems in supply chain risk management and strategic sourcing. Specifically, I focus on how supplier-induced risks influence sourcing decisions and how geopolitical risks influence vaccine manufacturers’ capacity investment decisions. In my other research, I address how consumer and employee behavior can impact operations management decisions.
+I am a PhD Candidate in Management Science at College of Business, University of Texas at Arlington. My research lies at the interface among behavioral operations, business analytics and theoretic modeling, with a focus on business context in complex supply chain networks. My research blends different research methodologies to uncover novel managerial insights related to strategic sourcing and collaborative/competitive negotiation in different supply chain network structures, and help firms make better operational decisions. In my other research, I study on the applications of machine learning and AI in the areas of operations management and digital marketing.
 
-I have taught one introductory undergraduate course on supply chain and operations management and have extensive teaching assistance experience in various supply chain and operations management courses.
-
-
+I have taught two introductory undergraduate course on supply chain and operations management and have extensive teaching assistance experience in various supply chain/operations management and business analytics courses.
