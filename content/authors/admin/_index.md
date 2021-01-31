@@ -48,6 +48,6 @@ highlight_name: false
 title: Lei Hua
 email: ""
 ---
-I am a PhD Candidate in Management Science at College of Business, University of Texas at Arlington. My research lies at the interface among behavioral operations, business analytics and theoretic modeling, with a focus on business context in complex supply chain networks. My research blends different research methodologies to uncover novel managerial insights related to strategic sourcing and collaborative/competitive negotiation in different supply chain network structures, and help firms make better operational decisions. In my other research, I study on the applications of machine learning and AI in the areas of operations management and digital marketing.
+I am a PhD Candidate in Management Science at College of Business, University of Texas at Arlington. My research lies at the interface among behavioral operations, business analytics and theoretic modeling, with a focus on business context in complex supply chain networks. My research blends different research methodologies to uncover novel managerial insights related to strategic sourcing and collaborative/competitive negotiation in different supply chain network structures. In my other research, I study on the applications of machine learning and AI in the areas of operations management and digital marketing.
 
 I have taught two introductory undergraduate course on supply chain and operations management and have extensive teaching assistance experience in various supply chain/operations management and business analytics courses.
