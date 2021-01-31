@@ -57,7 +57,7 @@ email: ""
 <style>
   
 he {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 </style>
