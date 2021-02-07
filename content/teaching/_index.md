@@ -35,7 +35,7 @@ hr {
 <he>Instructor, University of Arlington</he>
 <hr>
 
-<ul><li><se><strong>Operations Management:</strong>(<sup>*</sup>for online courses)</se>
+<ul><li><se><strong>Operations Management:</strong> (* for online courses)</se>
   <ul>
   <li><p style="font-size:18px;">Semesters: Spring 2021<sup>*</sup>; Fall 2020<sup>*</sup>; Spring 2020; Fall 2019</em></p></li>
   <li><p style="font-size:18px;">Teaching evaluation: 4.42/5.0; 4.40/5.0; 4.32/5.0; 4.42/5.0</p></li>  
@@ -43,7 +43,7 @@ hr {
   </ul>
  </li>
 
-<li><se><strong>Business Statistics:</strong>(<sup>*</sup>for online courses)</se>
+<li><se><strong>Business Statistics:</strong> (* for online courses)</se>
   <ul>
   <li><p style="font-size:18px;">Semesters: Summer 2020<sup>*</sup>; Summer 2019; Spring 2019</em></p></li>
   <li><p style="font-size:18px;">Teaching evaluation: 4.38/5.0; 4.66/5.0; 4.14/5.0</p></li>  
