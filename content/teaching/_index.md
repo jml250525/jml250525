@@ -37,7 +37,7 @@ hr {
 
 <ul><li><se><strong>Operations Management:</strong></se>
   <ul>
-  <li><p style="font-size:18px;">Semesters: Winter 2020; Fall 2020; Spring 2020; Fall 2019</em></p></li>
+  <li><p style="font-size:18px;">Semesters: Spring 2021<sup>*</sup>; Fall 2020; Spring 2020; Fall 2019</em></p></li>
   <li><p style="font-size:18px;">Teaching evaluation: 4.42/5.0; 4.40/5.0; 4.32/5.0; 4.42/5.0</p></li>  
   <li><p style="font-size:18px;">Enrollment: 50; 76; 72; 70</em></p></li>
   </ul>
